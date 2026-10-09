@@ -1,0 +1,11 @@
+Kana et Kanji N5 : site d'étude du JLPT N5
+
+POUR L'UTILISER
+- Mets tout le dossier sur un hébergeur de sites statiques (gratuit) : Netlify Drop (app.netlify.com/drop), GitHub Pages ou Cloudflare Pages. Tu obtiens un lien à envoyer à ton amie.
+- Elle l'ouvre sur son téléphone, puis « Ajouter à l'écran d'accueil » : le site se comporte comme une appli et marche hors connexion.
+- Chaque personne a sa propre progression : elle est enregistrée dans le navigateur de son appareil, pas sur un serveur. Rien n'est partagé entre vous.
+
+POINTS À SAVOIR
+- Ouvrir index.html directement (sans hébergeur) marche aussi pour étudier, mais pas pour l'installer comme appli.
+- Si on vide les données du navigateur, la progression est effacée.
+- La progression ne passe pas d'un appareil à l'autre.
